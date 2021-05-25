@@ -30,9 +30,9 @@ input{
   width:100%;
   height:768px;
   position: relative;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url('./images/background.png');
+  /* background-repeat: no-repeat;
+  background-size: cover; */
+  /* background-image: url('./images/background.png'); */
 }
 nav{
 display: flex;

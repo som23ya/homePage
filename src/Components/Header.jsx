@@ -8,7 +8,6 @@ function Header() {
             <div className='name'>
                 <h1><span>Making the need</span> Meet the work</h1>
                 <p>A revolutionizing aspect of the recruiting industry</p>
-                <a href='#' className='cv-btn'>Sign Up</a>
             </div>
         </div>
     )

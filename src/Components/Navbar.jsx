@@ -24,13 +24,12 @@ function Navbar() {
             <label className='menu-icon' for='menu-btn'>
                 <span className='nav-icon'></span>
             </label>
-            <p>VISTAAR</p>
+            <span><h3>VISTAR</h3></span>
             <ul className='menu'>
-                <li><a href='#' className='active'>Home</a></li>
-                <li><a href='#'>Features</a></li>
-                <li><a href='#About'>About</a></li>
-                <li><a href='#'>Posting</a></li>
-                {/* <li><a href='#'>Home</a></li> */}
+                <li><a href='#main'>Home</a></li>
+                <li><a href='#features'>Features</a></li>
+                <li><a href='#about'>About</a></li>
+                <li><a href='#'>Search/Post Job</a></li>
             </ul>
         </nav>
     )
