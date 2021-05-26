@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/kritikashah20/homePage.git/static/css/main.9dbfaa6d.chunk.css",
-    "main.js": "/kritikashah20/homePage.git/static/js/main.cdc50e45.chunk.js",
-    "main.js.map": "/kritikashah20/homePage.git/static/js/main.cdc50e45.chunk.js.map",
+    "main.css": "/kritikashah20/homePage.git/static/css/main.97135990.chunk.css",
+    "main.js": "/kritikashah20/homePage.git/static/js/main.ce8e9a15.chunk.js",
+    "main.js.map": "/kritikashah20/homePage.git/static/js/main.ce8e9a15.chunk.js.map",
     "runtime-main.js": "/kritikashah20/homePage.git/static/js/runtime-main.85be7c1b.js",
     "runtime-main.js.map": "/kritikashah20/homePage.git/static/js/runtime-main.85be7c1b.js.map",
     "static/js/2.71e1fff0.chunk.js": "/kritikashah20/homePage.git/static/js/2.71e1fff0.chunk.js",
     "static/js/2.71e1fff0.chunk.js.map": "/kritikashah20/homePage.git/static/js/2.71e1fff0.chunk.js.map",
     "index.html": "/kritikashah20/homePage.git/index.html",
-    "static/css/main.9dbfaa6d.chunk.css.map": "/kritikashah20/homePage.git/static/css/main.9dbfaa6d.chunk.css.map",
+    "static/css/main.97135990.chunk.css.map": "/kritikashah20/homePage.git/static/css/main.97135990.chunk.css.map",
     "static/js/2.71e1fff0.chunk.js.LICENSE.txt": "/kritikashah20/homePage.git/static/js/2.71e1fff0.chunk.js.LICENSE.txt",
-    "static/media/about.0eed17b1.png": "/kritikashah20/homePage.git/static/media/about.0eed17b1.png",
-    "static/media/index.css": "/kritikashah20/homePage.git/static/media/presentation.2d949a93.png",
-    "static/media/feature_1.ab58939c.png": "/kritikashah20/homePage.git/static/media/feature_1.ab58939c.png",
-    "static/media/feature_2.978558c5.png": "/kritikashah20/homePage.git/static/media/feature_2.978558c5.png",
-    "static/media/feature_3.f67c9bf0.png": "/kritikashah20/homePage.git/static/media/feature_3.f67c9bf0.png"
+    "static/media/about.70982979.png": "/kritikashah20/homePage.git/static/media/about.70982979.png",
+    "static/media/feature_1.34867be1.png": "/kritikashah20/homePage.git/static/media/feature_1.34867be1.png",
+    "static/media/feature_2.927be91c.png": "/kritikashah20/homePage.git/static/media/feature_2.927be91c.png",
+    "static/media/feature_3.405e2cae.png": "/kritikashah20/homePage.git/static/media/feature_3.405e2cae.png",
+    "static/media/index.css": "/kritikashah20/homePage.git/static/media/presentation.2d949a93.png"
   },
   "entrypoints": [
     "static/js/runtime-main.85be7c1b.js",
     "static/js/2.71e1fff0.chunk.js",
-    "static/css/main.9dbfaa6d.chunk.css",
-    "static/js/main.cdc50e45.chunk.js"
+    "static/css/main.97135990.chunk.css",
+    "static/js/main.ce8e9a15.chunk.js"
   ]
 }
